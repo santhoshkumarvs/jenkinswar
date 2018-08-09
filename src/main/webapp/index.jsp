@@ -11,10 +11,10 @@
     <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> KARVALO
     <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> PAPILON
     <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> ABACHURINA POST OFFICE
-    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> Timmana Tale 
-    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> Thochiddu Geechiddu
-    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> Naraprani
-    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> Tent Cinema
+    <input type="checkbox" name="author" value="Writen by Rayasam Bheemasena Rao"> Timmana Tale 
+    <input type="checkbox" name="author" value="Writen by Rayasam Bheemasena Rao"> Thochiddu Geechiddu
+    <input type="checkbox" name="author" value="Writen by Rayasam Bheemasena Rao"> Naraprani
+    <input type="checkbox" name="author" value="Writen by Rayasam Bheemasena Rao"> Tent Cinema
     <input type="submit" value="Query">
   </form>
  
