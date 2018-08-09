@@ -3,7 +3,7 @@
   <title>Authors </title>
 </head>
 <body>
-  <h3>Choose an author:</h3>
+  <h3>Choose Novel:</h3>
   <form method="get">
     <input type="checkbox" name="author" value="Writened Poorna Chandra Tejasvi"> HUDUKATA
     <input type="checkbox" name="author" value="Writened Kuvempu">ANIKETHANA
