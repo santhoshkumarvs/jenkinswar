@@ -5,9 +5,16 @@
 <body>
   <h3>Choose Novel:</h3>
   <form method="get">
-    <input type="checkbox" name="author" value="Writened Poorna Chandra Tejasvi"> HUDUKATA
-    <input type="checkbox" name="author" value="Writened Kuvempu">ANIKETHANA
-    <input type="checkbox" name="author" value="Writened Kuvempu">YAYATHI
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> HUDUKATA
+    <input type="checkbox" name="author" value="Writen by Kuvempu">ANIKETHANA
+    <input type="checkbox" name="author" value="Writen by Kuvempu">YAYATHI
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> KARVALO
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> PAPILON
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> ABACHURINA POST OFFICE
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> Timmana Tale 
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> Thochiddu Geechiddu
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> Naraprani
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> Tent Cinema
     <input type="submit" value="Query">
   </form>
  
