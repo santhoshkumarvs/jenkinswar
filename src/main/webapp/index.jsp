@@ -5,9 +5,9 @@
 <body>
   <h3>Choose an author:</h3>
   <form method="get">
-    <input type="checkbox" name="author" value="HUDUKATA">BY Poorna Chandra Tejasvi
-    <input type="checkbox" name="author" value="Anikethana">BY Kuvempu
-    <input type="checkbox" name="author" value="Yayathi">By Kuvempu
+    <input type="checkbox" name="author" value="Writened Poorna Chandra Tejasvi"> HUDUKATA
+    <input type="checkbox" name="author" value="Writened Kuvempu">Anikethana
+    <input type="checkbox" name="author" value="Writened Kuvempu">Yayathi
     <input type="submit" value="Query">
   </form>
  
