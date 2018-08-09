@@ -1,13 +1,13 @@
 <html>
 <head>
-  <title>Echoing HTML Request Parameters</title>
+  <title>Authors </title>
 </head>
 <body>
   <h3>Choose an author:</h3>
   <form method="get">
     <input type="checkbox" name="author" value="Writened Poorna Chandra Tejasvi"> HUDUKATA
-    <input type="checkbox" name="author" value="Writened Kuvempu">Anikethana
-    <input type="checkbox" name="author" value="Writened Kuvempu">Yayathi
+    <input type="checkbox" name="author" value="Writened Kuvempu">ANIKETHANA
+    <input type="checkbox" name="author" value="Writened Kuvempu">YAYATHI
     <input type="submit" value="Query">
   </form>
  
