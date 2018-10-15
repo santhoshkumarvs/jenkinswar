@@ -1,11 +1,11 @@
 <html>
 <head>
-  <title>Authors </title>
+  <title> Authors </title>
 </head>
 <body>
-  <h3>Choose Novel:</h3>
+  <h3>Choose Novel you would like to read :</h3>
   <form method="get">
-    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> HUDUKATA
+    <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi">  HUDUKATA
     <input type="checkbox" name="author" value="Writen by Kuvempu">ANIKETHANA
     <input type="checkbox" name="author" value="Writen by Kuvempu">YAYATHI
     <input type="checkbox" name="author" value="Writen by Poorna Chandra Tejasvi"> KARVALO
